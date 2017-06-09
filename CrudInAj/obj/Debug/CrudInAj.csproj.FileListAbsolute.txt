@@ -1,0 +1,153 @@
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\CrudInAj.dll.config
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\CrudInAj.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\CrudInAj.pdb
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\Antlr3.Runtime.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\EntityFramework.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\Microsoft.Web.Infrastructure.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\Newtonsoft.Json.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Net.Http.Formatting.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.Http.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.Http.WebHost.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.Mvc.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.Optimization.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.Providers.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.Razor.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.WebPages.Deployment.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.WebPages.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.WebPages.Razor.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\WebGrease.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\EntityFramework.xml
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\Newtonsoft.Json.xml
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Net.Http.Formatting.xml
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.Http.xml
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.Http.WebHost.xml
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.Mvc.xml
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.Razor.xml
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.WebPages.xml
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.WebPages.Deployment.xml
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\bin\System.Web.WebPages.Razor.xml
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\obj\Debug\CrudInAj.csprojResolveAssemblyReference.cache
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\obj\Debug\CrudInAj.dll
+E:\My blogs\CrudInAj\CrudInAj\CrudInAj\obj\Debug\CrudInAj.pdb
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.pdb
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Antlr3.Runtime.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\EntityFramework.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Newtonsoft.Json.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Mvc.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Optimization.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Providers.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Razor.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Razor.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\WebGrease.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\EntityFramework.xml
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Newtonsoft.Json.xml
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Mvc.xml
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Razor.xml
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.xml
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Razor.xml
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.csprojResolveAssemblyReference.cache
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.dll
+C:\Users\abiind\Desktop\All current projects (abir)\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.pdb
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.dll.config
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.pdb
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Antlr3.Runtime.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\EntityFramework.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Microsoft.Web.Infrastructure.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Newtonsoft.Json.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Net.Http.Formatting.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.WebHost.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Mvc.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Optimization.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Providers.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Razor.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Deployment.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Razor.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\WebGrease.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\EntityFramework.xml
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Newtonsoft.Json.xml
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Net.Http.Formatting.xml
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.xml
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.WebHost.xml
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Mvc.xml
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Razor.xml
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.xml
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Deployment.xml
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Razor.xml
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.csprojResolveAssemblyReference.cache
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.dll
+E:\Updated Projects\Updated Projects\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.pdb
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.dll.config
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.pdb
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Antlr3.Runtime.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\EntityFramework.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Microsoft.Web.Infrastructure.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Newtonsoft.Json.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Net.Http.Formatting.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.WebHost.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Mvc.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Optimization.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Providers.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Razor.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Deployment.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Razor.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\WebGrease.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\EntityFramework.xml
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Newtonsoft.Json.xml
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Net.Http.Formatting.xml
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.xml
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.WebHost.xml
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Mvc.xml
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Razor.xml
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.xml
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Deployment.xml
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Razor.xml
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.csprojResolveAssemblyReference.cache
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.dll
+E:\Updated Projects\Updated Projects\AngularJs\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.pdb
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.dll.config
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\CrudInAj.pdb
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Antlr3.Runtime.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\EntityFramework.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Newtonsoft.Json.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Net.Http.Formatting.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.WebHost.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Mvc.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Optimization.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Providers.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Razor.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Razor.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\WebGrease.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\EntityFramework.xml
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\Newtonsoft.Json.xml
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Net.Http.Formatting.xml
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.xml
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Http.WebHost.xml
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Mvc.xml
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.Razor.xml
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.xml
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\bin\System.Web.WebPages.Razor.xml
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.csprojResolveAssemblyReference.cache
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.dll
+C:\Users\sudhanshu\Desktop\CRUD Operations in MVC with AngularJs\CrudInAj\obj\Debug\CrudInAj.pdb
